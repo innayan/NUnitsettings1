@@ -48,7 +48,9 @@
     <vcs-settings>
       <vcs-entry-ref root-id="NUnit_Tfsonline" />
     </vcs-settings>
-    <requirements />
+    <requirements>
+      <contains name="system.agent.name" value="Default Agent" />
+    </requirements>
     <build-triggers />
     <cleanup />
   </settings>
