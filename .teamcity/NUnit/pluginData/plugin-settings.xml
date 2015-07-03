@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
   <versionedSettings rootId="NUnit_HttpsGithubComInnayanNUnitsettings1git" enabled="true" showChanges="true" buildSettings="PREFER_VCS" />
+  <report-tabs>
+    <report-tab title="test" buildTypeId="NUnit_NUnit262">
+      <revisionRule name="lastSuccessful" revision="latest.lastSuccessful" />
+    </report-tab>
+  </report-tabs>
 </settings>
 
