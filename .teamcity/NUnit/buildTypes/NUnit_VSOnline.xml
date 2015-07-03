@@ -40,7 +40,7 @@
           <param name="nunit_command_line" value="-verbose" />
           <param name="nunit_enabled" value="checked" />
           <param name="nunit_environment" value="auto" />
-          <param name="nunit_include" value="**/*.dll" />
+          <param name="nunit_include" value="**/*Tests.dll" />
           <param name="nunit_path" value="C:\NUnit\NUnit-3.0\NUnit-3.0.0" />
           <param name="nunit_platform" value="MSIL" />
           <param name="nunit_version" value="NUnit-3.0.0" />
