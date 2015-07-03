@@ -38,7 +38,7 @@
           <param name="nunit_enabled" value="checked" />
           <param name="nunit_environment" value="v2.0" />
           <param name="nunit_include" value="**\bin\**\*.dll" />
-          <param name="nunit_path" value="C:\NUnit\NUnit-3.0.0 a\" />
+          <param name="nunit_path" value="C:\NUnit\NUnit-3.0.0 cc\" />
           <param name="nunit_platform" value="x86" />
           <param name="nunit_version" value="NUnit-3.0.0" />
           <param name="teamcity.step.mode" value="default" />
