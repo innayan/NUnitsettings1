@@ -34,7 +34,6 @@
           <param name="dotNetCoverage.PartCover.platformBitness" value="x86" />
           <param name="dotNetCoverage.PartCover.platformVersion" value="v4.0" />
           <param name="dotNetCoverage.dotCover.filters" value="+:assembly=*;type=*;method=***" />
-          <param name="dotNetCoverage.tool" value="dotcover" />
           <param name="dotNetTestRunner.Type" value="NUnit" />
           <param name="nunit_command_line" value="--test=" />
           <param name="nunit_enabled" value="checked" />
