@@ -35,6 +35,7 @@
           <param name="dotNetCoverage.PartCover.platformBitness" value="x86" />
           <param name="dotNetCoverage.PartCover.platformVersion" value="v4.0" />
           <param name="dotNetCoverage.dotCover.filters" value="+:assembly=*;type=*;method=***" />
+          <param name="dotNetCoverage.index" value="fullcoveragereport.html" />
           <param name="dotNetCoverage.tool" value="ncover3" />
           <param name="dotNetTestRunner.Type" value="NUnit" />
           <param name="nunit_enabled" value="checked" />
@@ -42,7 +43,7 @@
           <param name="nunit_include" value="**\bin\**\*.dll" />
           <param name="nunit_path" value="C:/NUnit/NUnit-3.0.0 cc/" />
           <param name="nunit_platform" value="x86" />
-          <param name="nunit_version" value="NUnit-2.6.4" />
+          <param name="nunit_version" value="NUnit-3.0.0" />
           <param name="teamcity.step.mode" value="default" />
         </parameters>
       </runner>
