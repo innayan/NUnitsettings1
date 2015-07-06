@@ -39,10 +39,10 @@
           <param name="dotNetCoverage.tool" value="ncover3" />
           <param name="dotNetTestRunner.Type" value="NUnit" />
           <param name="nunit_enabled" value="checked" />
-          <param name="nunit_environment" value="v2.0" />
+          <param name="nunit_environment" value="auto" />
           <param name="nunit_include" value="**\bin\**\*Test*.dll" />
           <param name="nunit_path" value="C:/NUnit/NUnit-3.0.0 cc/" />
-          <param name="nunit_platform" value="x86" />
+          <param name="nunit_platform" value="x64" />
           <param name="nunit_version" value="NUnit-3.0.0" />
           <param name="teamcity.step.mode" value="default" />
         </parameters>
