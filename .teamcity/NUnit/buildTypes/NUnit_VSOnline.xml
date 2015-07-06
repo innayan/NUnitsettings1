@@ -29,7 +29,7 @@
           <param name="dotNetCoverage.NCover3.platformBitness" value="x86" />
           <param name="dotNetCoverage.NCover3.platformVersion" value="v2.0" />
           <param name="dotNetCoverage.NCover3.reporter.executable.args" value="//or FullCoverageReport:Html:{teamcity.report.path}" />
-          <param name="dotNetCoverage.NCover3.tool" value="C:\Program Files\NCover Desktop\" />
+          <param name="dotNetCoverage.NCover3.tool" value="C:\Program Files\NCover\" />
           <param name="dotNetCoverage.PartCover.Reg" value="selected" />
           <param name="dotNetCoverage.PartCover.includes" value="[*]*" />
           <param name="dotNetCoverage.PartCover.platformBitness" value="x86" />
