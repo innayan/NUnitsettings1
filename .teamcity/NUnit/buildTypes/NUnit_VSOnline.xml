@@ -25,7 +25,7 @@
           <param name="dotNetCoverage.NCover.platformBitness" value="x86" />
           <param name="dotNetCoverage.NCover.platformVersion" value="v2.0" />
           <param name="dotNetCoverage.NCover3.Reg" value="selected" />
-          <param name="dotNetCoverage.NCover3.args" value="//ias .*" />
+          <param name="dotNetCoverage.NCover3.args" value="help" />
           <param name="dotNetCoverage.NCover3.platformBitness" value="x86" />
           <param name="dotNetCoverage.NCover3.platformVersion" value="v2.0" />
           <param name="dotNetCoverage.NCover3.reporter.executable.args" value="//or FullCoverageReport:Html:{teamcity.report.path}" />
