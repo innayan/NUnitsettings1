@@ -36,7 +36,7 @@
           <param name="dotNetCoverage.PartCover.platformVersion" value="v4.0" />
           <param name="dotNetCoverage.dotCover.filters" value="+:assembly=*;type=*;method=***" />
           <param name="dotNetCoverage.index" value="fullcoveragereport.html" />
-          <param name="dotNetCoverage.tool" value="ncover3" />
+          <param name="dotNetCoverage.tool" value="dotcover" />
           <param name="dotNetTestRunner.Type" value="NUnit" />
           <param name="nunit_enabled" value="checked" />
           <param name="nunit_environment" value="auto" />
