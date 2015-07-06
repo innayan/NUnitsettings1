@@ -42,7 +42,7 @@
           <param name="nunit_include" value="**\bin\**\*.dll" />
           <param name="nunit_path" value="C:/NUnit/NUnit-3.0.0 cc/" />
           <param name="nunit_platform" value="x86" />
-          <param name="nunit_version" value="NUnit-3.0.0" />
+          <param name="nunit_version" value="NUnit-2.6.4" />
           <param name="teamcity.step.mode" value="default" />
         </parameters>
       </runner>
