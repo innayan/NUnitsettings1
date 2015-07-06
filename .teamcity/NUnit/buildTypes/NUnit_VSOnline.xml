@@ -29,11 +29,13 @@
           <param name="dotNetCoverage.NCover3.platformBitness" value="x86" />
           <param name="dotNetCoverage.NCover3.platformVersion" value="v2.0" />
           <param name="dotNetCoverage.NCover3.reporter.executable.args" value="//or FullCoverageReport:Html:{teamcity.report.path}" />
+          <param name="dotNetCoverage.NCover3.tool" value="C:\Program Files\NCover Code Central\" />
           <param name="dotNetCoverage.PartCover.Reg" value="selected" />
           <param name="dotNetCoverage.PartCover.includes" value="[*]*" />
           <param name="dotNetCoverage.PartCover.platformBitness" value="x86" />
           <param name="dotNetCoverage.PartCover.platformVersion" value="v4.0" />
           <param name="dotNetCoverage.dotCover.filters" value="+:assembly=*;type=*;method=***" />
+          <param name="dotNetCoverage.tool" value="ncover3" />
           <param name="dotNetTestRunner.Type" value="NUnit" />
           <param name="nunit_enabled" value="checked" />
           <param name="nunit_environment" value="v2.0" />
